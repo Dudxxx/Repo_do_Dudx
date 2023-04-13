@@ -1,0 +1,32 @@
+body {
+    background: gray;
+}
+h1{
+    font-size: 60px;
+}
+
+* {
+    text-align: center;
+    font-family: cursive, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+hr {
+    color: aliceblue;
+    width: 50px;
+}
+table, tr, td, th{
+    border: 1px solid black;
+}
+tr, td, th {
+    padding: 5px 100px;
+}
+
+#principal {
+    color: black;
+}
+
+.segundo_plano {
+    color: blueviolet;
+}
